@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Object Oriented Programming (OOP)](README.md)
-* [Page 1](page-1.md)
+* [main](README.md)
+* [Java Programs](page-1.md)
