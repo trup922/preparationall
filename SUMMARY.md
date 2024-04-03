@@ -1,4 +1,4 @@
 # Table of contents
 
-* [main](README.md)
-* [Java Programs](javaprograms.md)
+* [Java Programs](README.md)
+* [Java Interview Questions](java-interview-questions.md)
